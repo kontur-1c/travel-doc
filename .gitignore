@@ -1,0 +1,5 @@
+#Compiled docs
+docs/_build
+
+#VS code settings
+.vscode

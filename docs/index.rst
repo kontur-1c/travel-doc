@@ -27,8 +27,9 @@
 
 Расширения можно скачать по ссылкам: 
 
-* `Базовое расширение Тревел для 1С <https://update.kontur.ru/1c/v1/travel/extension>`_
-* `Расширение Тревел для конфигурации Бухгалтерия предприятия, редакция 3.0 <https://update.kontur.ru/1c/v1/travel_bp3/extension>`_
+* `Базовое расширение для 1С <https://update.kontur.ru/1c/v1/travel/extension>`_
+* `Расширение для Бухгалтерия предприятия 3.0 <https://update.kontur.ru/1c/v1/travel_bp3/extension>`_
+* `Расширение для ERP 2 <https://update.kontur.ru/1c/v1/travel_erp2/extension>`_
 
 Установка
 ---------

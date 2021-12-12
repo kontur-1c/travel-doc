@@ -37,7 +37,7 @@
 
 .. raw:: html
    
-   <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+   <div style="position: relative; padding-bottom: 5%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
       <iframe 
             width="560" 
             height="315" 
@@ -128,6 +128,20 @@
 Настройка подключения
 ~~~~~~~~~~~~~~~~~~~~~
 
+.. raw:: html
+   
+   <div style="position: relative; padding-bottom: 5%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+      <iframe 
+            width="560" 
+            height="315" 
+            src="https://www.youtube-nocookie.com/embed/hf9k3ev3eZU" 
+            title="YouTube video player" 
+            frameborder="0" 
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+            allowfullscreen>
+      </iframe>
+    </div>
+
 После перезапуска в разделе «Администрирование» должен появиться новый пункт «Обмен данными с Контур.Тревел». Кликнем по нему. 
 
 .. figure:: _static/sshts/08.png
@@ -148,9 +162,23 @@
 ~~~~~~~~~~~~~~~~~~~~
 
 Для выгрузки сотрудников в сервис достаточно перейти в одноименный справочник.
-В форме списка и элемента справочника должна была появиться кнопка «Тревел» |кнопка-тревел|.
+В форме списка и элемента справочника должна была появиться кнопка «Выгрузить в Тревел» |кнопка-тревел|.
 
 .. |кнопка-тревел| image:: _static/sshts/05.png
+
+.. raw:: html
+   
+   <div style="position: relative; padding-bottom: 5%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+      <iframe 
+            width="560" 
+            height="315" 
+            src="https://www.youtube-nocookie.com/embed/tjKyGdjW_Og" 
+            title="YouTube video player" 
+            frameborder="0" 
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+            allowfullscreen>
+      </iframe>
+    </div>
 
 .. note:: Перед выгрузкой необходимо убедиться, что у физических лиц заполнены:
           
